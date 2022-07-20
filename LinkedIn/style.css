@@ -1,0 +1,74 @@
+
+
+.fa-linkedin-square{
+    color: #0077B5;
+
+}
+
+.navbar{
+    background-color: #283E4A;
+}
+
+a{
+    color: white;
+    
+    border-bottom: 2px rgba(255, 255, 255, 0) solid;
+}
+
+a:hover{
+    border-bottom: 2px solid white;
+}
+
+#linkedin:hover{
+    border-bottom:  2px rgba(255, 255, 255, 0) solid;
+}
+
+.section2{
+    height: 5vh;
+    font-size: 10px;
+}
+
+.top-card{
+    height: 25vh;
+}
+
+
+
+.mid{
+    background-color: #E6F7FF;
+}
+
+.linkedin{
+    height: 4vh;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.zone-carte .relation{
+    font-size:12px;
+}
+
+.titre-card{
+    font-size:15px
+}
+
+.abo{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: #1b2b33;
+}
+
+.imageprincipal{
+    width: 50%;
+
+}
+
+.imagesecondaire{
+    height: 200px;
+    width: 300px;
+
+}
